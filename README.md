@@ -13,7 +13,9 @@ I work as a PHP Developer at HYCU on innovative solutions in areas of sustainabi
 ### Recent blog posts
 
 - [Configure MySQL Server password on Ubuntu 20.04](https://milankragujevic.com/configure-mysql-server-password-on-ubuntu-20-04) - 2020-07-09
-- [Configure MySQL Server password on Ubuntu 20.04](https://milankragujevic.com/configure-mysql-server-password-on-ubuntu-20-04) - 2020-07-09
-- [Configure MySQL Server password on Ubuntu 20.04](https://milankragujevic.com/configure-mysql-server-password-on-ubuntu-20-04) - 2020-07-09
-- [Configure MySQL Server password on Ubuntu 20.04](https://milankragujevic.com/configure-mysql-server-password-on-ubuntu-20-04) - 2020-07-09
-- [Configure MySQL Server password on Ubuntu 20.04](https://milankragujevic.com/configure-mysql-server-password-on-ubuntu-20-04) - 2020-07-09
+ - [How to avoid “RMM STATE: Prenormal” when unlocking Samsung phones](https://milankragujevic.com/how-to-avoid-rmm-state-prenormal-when-unlocking-samsung-phones) - 2020-06-28
+ - [How to boot new Samsung phones into Bootloader Unlock mode](https://milankragujevic.com/how-to-boot-new-samsung-phones-into-bootloader-unlock-mode) - 2020-06-28
+ - [Pravo na umanjenje računa za korisnike SBB](https://milankragujevic.com/pravo-na-umanjenje-racuna-za-korisnike-sbb) - 2020-05-27
+ - [Eltex 1421G ONT Lozinka za admin nalog (Orion Telekom)](https://milankragujevic.com/eltex-1421g-ont-lozinka-za-admin-nalog-orion-telekom) - 2020-05-25
+
+[**All posts**➡️](https://milankragujevic.com/)
