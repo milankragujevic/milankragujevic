@@ -18,4 +18,4 @@ I work as a PHP Developer at HYCU on innovative solutions in areas of sustainabi
  - [Pravo na umanjenje računa za korisnike SBB](https://milankragujevic.com/pravo-na-umanjenje-racuna-za-korisnike-sbb) - 2020-05-27
  - [Eltex 1421G ONT Lozinka za admin nalog (Orion Telekom)](https://milankragujevic.com/eltex-1421g-ont-lozinka-za-admin-nalog-orion-telekom) - 2020-05-25
 
-[**All posts**➡️](https://milankragujevic.com/)
+[**All posts** ➡️](https://milankragujevic.com/)
