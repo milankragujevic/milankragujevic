@@ -12,10 +12,10 @@ I work as a PHP Developer at [HYCU](https://www.hycu.com/) on innovative solutio
 
 ### Recent blog posts
 
-- [Vip Kućni Net u 2020](https://milankragujevic.com/vip-kucni-net-u-2020) - 2020-07-13
+- [Orion Telekom: Optički Internet bez ugovorne obaveze!](https://milankragujevic.com/orion-telekom-opticki-internet-bez-ugovorne-obaveze) - 2020-07-26
+ - [Vip Kućni Net u 2020](https://milankragujevic.com/vip-kucni-net-u-2020) - 2020-07-13
  - [Configure MySQL Server password on Ubuntu 20.04](https://milankragujevic.com/configure-mysql-server-password-on-ubuntu-20-04) - 2020-07-09
  - [How to avoid “RMM STATE: Prenormal” when unlocking Samsung phones](https://milankragujevic.com/how-to-avoid-rmm-state-prenormal-when-unlocking-samsung-phones) - 2020-06-28
  - [How to boot new Samsung phones into Bootloader Unlock mode](https://milankragujevic.com/how-to-boot-new-samsung-phones-into-bootloader-unlock-mode) - 2020-06-28
- - [Pravo na umanjenje računa za korisnike SBB](https://milankragujevic.com/pravo-na-umanjenje-racuna-za-korisnike-sbb) - 2020-05-27
 
 [**All posts** ➡️](https://milankragujevic.com/)
