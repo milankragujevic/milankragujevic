@@ -14,10 +14,10 @@ I work as a PHP Developer at [HYCU](https://www.hycu.com/) on innovative solutio
 
 ### Recent blog posts
 
-- [Globaltel protiv sveta - Poređenje ponude mobilnih operatera](https://milankragujevic.com/globaltel-protiv-sveta-poredjenje-ponude-mobilnih-operatera) - 2020-08-31
+- [OpenMPTCProuter: True Bonding of 2 WAN connections for cheap!](https://milankragujevic.com/openmptcprouter-true-bonding-of-2-wan-connections-for-cheap) - 2020-09-07
+ - [Globaltel protiv sveta - Poređenje ponude mobilnih operatera](https://milankragujevic.com/globaltel-protiv-sveta-poredjenje-ponude-mobilnih-operatera) - 2020-08-31
  - [Globaltel Freepaid - Prkosna ponuda virtuelnog operatera ](https://milankragujevic.com/globaltel-freepaid-prkosna-ponuda-virtuelnog-operatera) - 2020-08-30
  - [TRION TEL optički Internet provajder u Banja Luci](https://milankragujevic.com/trion-tel-opticki-internet-provajder-u-banja-luci) - 2020-08-20
  - [Zašto nemate punu brzinu Interneta preko WiFi?](https://milankragujevic.com/zasto-nemate-punu-brzinu-interneta-preko-wifi) - 2020-08-09
- - [Kako da aktivirate Telnet pristup na Ubee EVW32c](https://milankragujevic.com/kako-da-aktivirate-telnet-pristup-na-ubee-evw32c) - 2020-08-02
 
 [**All posts** ➡️](https://milankragujevic.com/)
