@@ -14,10 +14,10 @@ I work as a PHP Developer at [HYCU](https://www.hycu.com/) on innovative solutio
 
 ### Recent blog posts
 
-- [Admin šifra za Huawei HA35 hibridni modem](https://milankragujevic.com/lozinka-za-admin-nalog-huawei-ha35-modem) - 2020-10-07
+- [Ubrzajte web browsing na hibridnom modemu!](https://milankragujevic.com/ubrzajte-web-browsing-na-hibridnom-modemu) - 2020-10-07
+ - [Admin šifra za Huawei HA35 hibridni modem](https://milankragujevic.com/lozinka-za-admin-nalog-huawei-ha35-modem) - 2020-10-07
  - [Brzi mts Hibridni Internet - Spas u pravi čas](https://milankragujevic.com/brzi-mts-hibridni-internet-spas-u-pravi-cas) - 2020-09-20
  - [OpenMPTCProuter: True Bonding of 2 WAN connections for cheap!](https://milankragujevic.com/openmptcprouter-true-bonding-of-2-wan-connections-for-cheap) - 2020-09-07
  - [Globaltel protiv sveta - Poređenje ponude mobilnih operatera](https://milankragujevic.com/globaltel-protiv-sveta-poredjenje-ponude-mobilnih-operatera) - 2020-08-31
- - [Globaltel Freepaid - Prkosna ponuda virtuelnog operatera ](https://milankragujevic.com/globaltel-freepaid-prkosna-ponuda-virtuelnog-operatera) - 2020-08-30
 
 [**All posts** ➡️](https://milankragujevic.com/)
