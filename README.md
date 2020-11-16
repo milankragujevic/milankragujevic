@@ -14,10 +14,10 @@ I work as a PHP Developer at [HYCU](https://www.hycu.com/) on innovative solutio
 
 ### Recent blog posts
 
-- [Šta je Mesh WiFi?](https://milankragujevic.com/sta-je-mesh-wifi) - 2020-10-30
+- [Laki Mesh Wi-Fi sistem - Unapredite i proširite kućnu Wi-Fi mrežu!](https://milankragujevic.com/laki-mesh-wifi-sistem) - 2020-11-16
+ - [Šta je Mesh WiFi?](https://milankragujevic.com/sta-je-mesh-wifi) - 2020-10-30
  - [5G mreža neće promeniti svet](https://milankragujevic.com/5g-mreza-nece-promeniti-svet) - 2020-10-26
  - [Ubrzajte web browsing na hibridnom modemu!](https://milankragujevic.com/ubrzajte-web-browsing-na-hibridnom-modemu) - 2020-10-07
  - [Admin šifra za Huawei HA35 hibridni modem](https://milankragujevic.com/lozinka-za-admin-nalog-huawei-ha35-modem) - 2020-10-07
- - [Brzi mts Hibridni Internet - Spas u pravi čas](https://milankragujevic.com/brzi-mts-hibridni-internet-spas-u-pravi-cas) - 2020-09-20
 
 [**All posts** ➡️](https://milankragujevic.com/)
