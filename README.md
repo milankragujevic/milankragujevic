@@ -14,7 +14,7 @@ I work as a PHP Developer at [HYCU](https://www.hycu.com/) on innovative solutio
 
 ### Recent blog posts
 
-- [Šifra za Nokia G-240-C ONT (MTS optika)](https://milankragujevic.com/sifra-za-nokia-g-240-c-ont-mts-optika) - 2021-03-07
+- [Šifra za Nokia G-240W-C ONT (MTS optika)](https://milankragujevic.com/sifra-za-nokia-g-240-c-ont-mts-optika) - 2021-03-07
  - [Raskid ugovora sa MTS-om](https://milankragujevic.com/raskid-ugovora-sa-mts-om) - 2021-02-11
  - [Da li se - i kako - Telenor i Telekom udružuju](https://milankragujevic.com/da-li-se-i-kako-telenor-i-telekom-udruzuju) - 2021-02-06
  - [Internet bez ugovorne obaveze u Srbiji](https://milankragujevic.com/internet-bez-ugovorne-obaveze-u-srbiji) - 2021-02-01
