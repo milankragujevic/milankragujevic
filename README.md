@@ -2,7 +2,7 @@
 
 Hi 👋
 
-I’m a 24 year old software engineer from Serbia. I work with mainly web technologies, but also dabble a bit with embedded C, as well as MikroTik networking (wired and wireless), live streaming infrastructure, Linux administration, and a lot of other stuff 😊
+I’m a 25 year old software engineer from Serbia. I work with mainly web technologies, but also dabble a bit with embedded C, as well as MikroTik networking (wired and wireless), live streaming infrastructure, Linux administration, and a lot of other stuff 😊
 
 Other than my blog at [https://milankragujevic.com](https://milankragujevic.com/) — which recently celebrated it's 10 year anniversary 🎉 — I also run the Serbian telco news portal [TeleSrbija](https://telesrbija.com). 
 
